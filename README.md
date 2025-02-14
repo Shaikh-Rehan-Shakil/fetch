@@ -1,5 +1,5 @@
 
-# Fetch a neofetch clone.
+# Fetch, a neofetch clone.
 
 Fetch is a neofetch clone made by me in bash. I made this program to learn bash more in depth it's not practical but just a fun project.
 
